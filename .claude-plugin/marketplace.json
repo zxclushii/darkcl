@@ -1,0 +1,5 @@
+{
+  "name": "darkcl",
+  "owner": { "name": "zxclushii" },
+  "plugins": [{ "name": "plain-dark", "source": "./" }]
+}
