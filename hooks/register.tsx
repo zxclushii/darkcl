@@ -9,7 +9,7 @@ const OFF_KEY = 'off'
 const { theme, problems } = makeColors({
   label: 'Plain dark',
   only: 'dark',
-  roles: { accent: '#a8a8a8', danger: '#c25b56', success: '#7d9f74', warning: '#b8955a', pro: '#9488b0' },
+  roles: { accent: '#a8a8a8', danger: '#9a6bd1', success: '#7d9f74', warning: '#b8955a', pro: '#9488b0' },
   dark: {
     gray: {
       anchors: {
